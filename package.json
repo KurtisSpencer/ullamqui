@@ -1,0 +1,18 @@
+{
+  "name": "ullamqui",
+  "version": "1.0.0",
+  "main": "REST.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSpencer/ullamqui.git"
+  },
+  "keywords": [
+    "rest",
+    "ratione",
+    "js"
+  ],
+  "author": "SigurdGutmann",
+  "license": "MIT",
+  "homepage": "https://github.com/KurtisSpencer/ullamqui.git"
+}
